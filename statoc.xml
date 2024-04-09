@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2024-04-09T10:06:04.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="kcTe8SANaTPqd2Y9RkSN" version="24.2.2">
+  <diagram name="Page-1" id="LmQ9U59nQ5vAncb8gvPt">
+    <mxGraphModel dx="2322" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="110" width="160" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-2" value="Utlities" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="925" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-3" value="[INSERT]&amp;nbsp;Access" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#bcbdc1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-4" value="[INSERT] Access" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#BCBDC1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-5" value="[INSERT]&amp;nbsp;Access" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#BCBDC1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-6" value="Data / Resource" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#73cee1;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="850" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-7" value="Data / Resource" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#73CEE1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="850" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-8" value="Data / Resource" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#73CEE1;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="850" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-9" value="[INSERT] Manager" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fef200;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-10" value="[INSERT] Manager" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FEF200;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-11" value="[INSERT] Manager" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FEF200;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-12" value="[INSERT] Engine" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffca08;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-13" value="Message Bus" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#de9dc7;" vertex="1" parent="1">
+          <mxGeometry x="895" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-14" value="Security" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#de9dc7;" vertex="1" parent="1">
+          <mxGeometry x="895" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-15" value="Logging" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#de9dc7;" vertex="1" parent="1">
+          <mxGeometry x="895" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-16" value="Client" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#a6ce39;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnjveVoLUXO0fMtVfEGO-17" value="API Gateway" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fa5252;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
