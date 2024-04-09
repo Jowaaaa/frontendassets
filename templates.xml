@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<templates>
+  <clibs name="StaticArchitecture">
+    <add>https://raw.githubusercontent.com/Jowaaaa/frontendassets/main/StaticArchitecture.xml</add>
+  </clibs>
+  <template
+    section="Title"
+    subsection="Subtitle"
+    url="https://raw.githubusercontent.com/Jowaaaa/frontendassets/main/StaticArchitecture.xml"
+    title="Diagram"
+    name="Tooltip"
+    libs="general;basic"
+    clibs="StaticArchitecture"
+    tags="term1;term2"
+  />
+</templates>
